@@ -40,12 +40,12 @@ I'm an inspiring developer on a journey to learn, inspire, and create all in one
 
 #
 
-
-#
-
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ianbcodet&show_icons=true&theme=gruvbox)
+
+[![Ian's P2 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ianbcode)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
